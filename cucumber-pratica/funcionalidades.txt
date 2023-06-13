@@ -1,0 +1,10 @@
+Funcionalidade: Tela de Login
+
+Como aluno da faculdade
+Quero me autenticar
+Para que eu possa visualizar minhas notas
+
+Critérios de aceitação:
+- Autenticação válida;
+- Usuário inexistente;
+- Usuário com senha inválida;
